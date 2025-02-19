@@ -15,7 +15,7 @@ The purpose of this project is to predict housing based on area income, house ag
 How good is this model? The metric indicate that this is a less than perfect model. The bedroom variable adds little value to the model. The best approach to evaluate this model would be to construct a second model with different predictor variables. Unfortunately this data set does not contain any other useful variables.
 
 ### Explore Project 1: 
-
+[Link to Project 1 Notebook](https://github.com/andrewcollodel/Projects/blob/main/01%20House_prices_OLS_Project.ipynb)
 
 
 # Project 2: Classifying Data with Logistic Regression in Python
@@ -43,7 +43,7 @@ Incorrect predictions: 1,315 + 720 =  2,035 <span style="color:red">**(15% of pr
 Total Predictions:                 = 13,498
 
 ### Explore Project 2:
-
+[Link to Project 2 Notebook](https://github.com/andrewcollodel/Projects/blob/main/02%20Logistic_Regression_Loans.ipynb)
 
 # Project 3:  NYC Bridge Crossings - Poisson regression model
 

@@ -120,4 +120,5 @@ R-squared: 0.96 (96%)
 The model has improved but may lack sufficient predictor variables.
 
 ### Explore Project 5: 
+[Link to Project 5 Notebook](path_to_notebook_5)
 

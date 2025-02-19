@@ -65,3 +65,43 @@ The above to values are very large and a good fit unlikely (despite the reasonab
 At p=0.05 and DF Residuals = 173, the chi-squared value (chi2) from a standard Chi-Squared table is 224.660
  (Source: https://www.medcalc.org/manual/chi-square-table.php ). 
 This value is much smaller than this model’s reported Deviance = 24266 and Pearson chi2 = 24300. Therefore despite a reasonable visual fit or the test data the fit is statistically poor. (Source: https://timeseriesreasoning.com/contents/poisson-regression-model/ )
+
+# Project 4: Classifying Exam Results with Logistic Regression in Python
+
+The purpose of this project is to predict if a student will pass their exams based on an average pass rate of 60% (60% and above = pass below 60% is a fail) as this is the minimum requirement at prestigious Universities . The predictors are gender, ethnicity, preparation, lunch and parent’s education. The response is Year Result (pass or fail).
+
+Students Performance in Exams Dataset source information
+
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/code?datasetId=74977&sortBy=voteCount&language=Python 
+
+The dataset contains 1,000 records and 8 fields
+
+## Project 4: Conclusion
+
+The result is a $ 2\times 2$ array that shows how many instances the model predicted correctly or incorrectly as either `Yes` or `No`. The confusion matrix is illustrated as follows:
+
+![Exam Confusion Matrix](https://github.com/user-attachments/assets/cf534d6e-634d-4dda-a4cf-6eca570e7b09)
+
+
+The first row of the matrix shows that of the $300$ instances, the model correctly predicted $22$ of them as `Yes` but incorrectly predicted $64$ as `Yes`when they should have been `No`. The second row of the matrix shows that of the $300$ instances the model correctly predicted $200$ as `No` but incorrectly predicted 14 false negatives.  
+
+Correct predictions:   200 + 22 = 222 <span style="color:green">**(74% of predictions correct)**.</span>  
+
+Incorrect predictions: 64 + 14 =  78 <span style="color:red">**(26% of predictions incorrect)**.</span>  
+
+Total Predictions:             = 300
+
+# Project 5: Using Polynomial Regression to predict Co2 emissions based on city mpg
+
+This project uses a historical dataset to build a linear regression model that predicts Co2 emissions based on city mpg.
+
+## Project 5: Conclusion
+Result Test1: Medium 14 mpg city - predicts 562.75 under reporting by 1.33%
+Result Test 2: High 40 mpg city - predicts 193.64 under reporting by 11.55%
+Result Test 3: Low 7 mpg city - predicts 1006.78 under reporting by 8.95%
+Statistical tests
+Mean squared error: 618.79
+R-squared: 0.96 (96%)
+The model has improved but may lack sufficient predictor variables.
+
+

@@ -15,7 +15,7 @@ The purpose of this project is to predict housing based on area income, house ag
 How good is this model? The metric indicate that this is a less than perfect model. The bedroom variable adds little value to the model. The best approach to evaluate this model would be to construct a second model with different predictor variables. Unfortunately this data set does not contain any other useful variables.
 
 ## Explore Project 1:
-[House_prices_OLS_Project.ipynb](https://github.com/andrewcollodel/Projects/blob/main/01 House_prices_OLS_Project.ipynb)
+
 
 # Project 2: Classifying Data with Logistic Regression in Python
 
@@ -42,7 +42,7 @@ Incorrect predictions: 1,315 + 720 =  2,035 <span style="color:red">**(15% of pr
 Total Predictions:                 = 13,498
 
 ## Explore Project 2:
-[Loan_Approval_Classification.ipynb](https://github.com/andrewcollodel/Projects/blob/main/Loan_Approval_Classification.ipynb)
+
 
 # Project 3:  NYC Bridge Crossings - Poisson regression model
 
@@ -73,7 +73,7 @@ At p=0.05 and DF Residuals = 173, the chi-squared value (chi2) from a standard C
 This value is much smaller than this model’s reported Deviance = 24266 and Pearson chi2 = 24300. Therefore despite a reasonable visual fit or the test data the fit is statistically poor. (Source: https://timeseriesreasoning.com/contents/poisson-regression-model/ )
 
 ## Explore Project 3: 
-[NYC_Bridge_Crossings_Poisson_Regression.ipynb](https://github.com/andrewcollodel/Projects/blob/main/NYC_Bridge_Crossings_Poisson_Regression.ipynb)
+
 
 # Project 4: Classifying Exam Results with Logistic Regression in Python
 
@@ -101,7 +101,7 @@ Incorrect predictions: 64 + 14 =  78 <span style="color:red">**(26% of predictio
 Total Predictions:             = 300
 
 ## Explore Project 4: 
-[Classifying_Exam_Results_Logistic_Regression.ipynb](https://github.com/andrewcollodel/Projects/blob/main/Classifying_Exam_Results_Logistic_Regression.ipynb)
+
 
 # Project 5: Using Polynomial Regression to predict Co2 emissions based on city mpg
 
@@ -120,4 +120,4 @@ R-squared: 0.96 (96%)
 The model has improved but may lack sufficient predictor variables.
 
 ## Explore Project 5: 
-[Polynomial_Regression_Co2_Emissions.ipynb](https://github.com/andrewcollodel/Projects/blob/main/Polynomial_Regression_Co2_Emissions.ipynb)
+

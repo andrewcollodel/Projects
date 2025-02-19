@@ -120,5 +120,4 @@ R-squared: 0.96 (96%)
 The model has improved but may lack sufficient predictor variables.
 
 ### Explore Project 5: 
-[Link to Project 5 Notebook](path_to_notebook_5)
-
+[Link to Project 5 Notebook]([path_to_notebook_5](https://github.com/andrewcollodel/Projects/blob/main/05%20Vehicle_Polynomial_Regression%20VERSION%202.ipynb))

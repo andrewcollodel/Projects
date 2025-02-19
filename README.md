@@ -17,7 +17,7 @@ How good is this model? The metric indicate that this is a less than perfect mod
 ### Explore Project 1: 
 [Link to Project 1 Notebook](https://github.com/andrewcollodel/Projects/blob/main/01%20House_prices_OLS_Project.ipynb)
 
-
+___
 # Project 2: Classifying Data with Logistic Regression in Python
 
 The purpose of this project is to predict if a borrower will default on their loan. The predictors are annual income and credit score, and the response is loan default.

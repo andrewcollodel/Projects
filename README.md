@@ -14,7 +14,8 @@ The purpose of this project is to predict housing based on area income, house ag
 ## Project 1: Conclusion
 How good is this model? The metric indicate that this is a less than perfect model. The bedroom variable adds little value to the model. The best approach to evaluate this model would be to construct a second model with different predictor variables. Unfortunately this data set does not contain any other useful variables.
 
-### Explore Project 1:
+### Explore Project 1: [Link to Project 1 Notebook](01 House_prices_OLS_Project.ipynb)
+
 
 
 # Project 2: Classifying Data with Logistic Regression in Python
@@ -120,4 +121,4 @@ R-squared: 0.96 (96%)
 The model has improved but may lack sufficient predictor variables.
 
 ### Explore Project 5: 
-[Link to Project 5 Notebook]([path_to_notebook_5](https://github.com/andrewcollodel/Projects/blob/main/05%20Vehicle_Polynomial_Regression%20VERSION%202.ipynb))
+

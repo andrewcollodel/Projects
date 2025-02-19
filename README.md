@@ -83,11 +83,13 @@ The dataset contains 1,000 records and 8 fields
 
 #### Conclusion
 
-The result is a $ 2\times 2$ array that shows how many instances the model predicted correctly or incorrectly as either `Yes` or `No`. The confusion matrix is illustrated as follows:
+The result is a $ 2\times 2$ array that shows how many instances the model predicted correctly or incorrectly as either `Yes` or `No`. The confusion matrix is illustrated as follows:  
+  
 ![Exam Confusion Matrix](https://github.com/user-attachments/assets/cf534d6e-634d-4dda-a4cf-6eca570e7b09)
+  
 The first row of the matrix shows that of the $300$ instances, the model correctly predicted $22$ of them as `Yes` but incorrectly predicted $64$ as `Yes`when they should have been `No`. The second row of the matrix shows that of the $300$ instances the model correctly predicted $200$ as `No` but incorrectly predicted 14 false negatives.  
-Correct predictions:   200 + 22 = 222 <span style="color:green">**(74% of predictions correct)**.</span>  
-Incorrect predictions: 64 + 14 =  78 <span style="color:red">**(26% of predictions incorrect)**.</span>  
+Correct predictions:   200 + 22 = 222 <span style="color:green">(74% of predictions correct).</span>  
+Incorrect predictions: 64 + 14 =  78 <span style="color:red">(26% of predictions incorrect).</span>  
 Total Predictions:             = 300
 
 #### Explore Project 4: 

@@ -14,6 +14,8 @@ The purpose of this project is to predict housing based on area income, house ag
 ## Project 1: Conclusion
 How good is this model? The metric indicate that this is a less than perfect model. The bedroom variable adds little value to the model. The best approach to evaluate this model would be to construct a second model with different predictor variables. Unfortunately this data set does not contain any other useful variables.
 
+Explore this project: [House_prices_OLS_Project.ipynb](https://github.com/andrewcollodel/Projects/blob/main/House_prices_OLS_Project.ipynb)
+
 # Project 2: Classifying Data with Logistic Regression in Python
 
 The purpose of this project is to predict if a borrower will default on their loan. The predictors are annual income and credit score, and the response is loan default.
@@ -37,6 +39,8 @@ Correct predictions: 9,778 + 1,685 = 11,463 <span style="color:green">**(85% of 
 Incorrect predictions: 1,315 + 720 =  2,035 <span style="color:red">**(15% of predictions incorrect)**.</span>  
 
 Total Predictions:                 = 13,498
+
+Explore this project: [Loan_Approval_Classification.ipynb](https://github.com/andrewcollodel/Projects/blob/main/Loan_Approval_Classification.ipynb)
 
 # Project 3:  NYC Bridge Crossings - Poisson regression model
 
@@ -66,6 +70,8 @@ At p=0.05 and DF Residuals = 173, the chi-squared value (chi2) from a standard C
  (Source: https://www.medcalc.org/manual/chi-square-table.php ). 
 This value is much smaller than this model’s reported Deviance = 24266 and Pearson chi2 = 24300. Therefore despite a reasonable visual fit or the test data the fit is statistically poor. (Source: https://timeseriesreasoning.com/contents/poisson-regression-model/ )
 
+Explore this project: [NYC_Bridge_Crossings_Poisson_Regression.ipynb](https://github.com/andrewcollodel/Projects/blob/main/NYC_Bridge_Crossings_Poisson_Regression.ipynb)
+
 # Project 4: Classifying Exam Results with Logistic Regression in Python
 
 The purpose of this project is to predict if a student will pass their exams based on an average pass rate of 60% (60% and above = pass below 60% is a fail) as this is the minimum requirement at prestigious Universities . The predictors are gender, ethnicity, preparation, lunch and parent’s education. The response is Year Result (pass or fail).
@@ -91,6 +97,8 @@ Incorrect predictions: 64 + 14 =  78 <span style="color:red">**(26% of predictio
 
 Total Predictions:             = 300
 
+Explore this project: [Classifying_Exam_Results_Logistic_Regression.ipynb](https://github.com/andrewcollodel/Projects/blob/main/Classifying_Exam_Results_Logistic_Regression.ipynb)
+
 # Project 5: Using Polynomial Regression to predict Co2 emissions based on city mpg
 
 This project uses a historical dataset to build a linear regression model that predicts Co2 emissions based on city mpg.
@@ -107,4 +115,4 @@ Mean squared error: 618.79
 R-squared: 0.96 (96%)  
 The model has improved but may lack sufficient predictor variables.
 
-
+Explore this project: [Polynomial_Regression_Co2_Emissions.ipynb](https://github.com/andrewcollodel/Projects/blob/main/Polynomial_Regression_Co2_Emissions.ipynb)

@@ -1,11 +1,11 @@
 # Projects
 Projects completed successfully using public datasets 
-
+___
 ## About the projects
 Each project has been completed as part of my learning for a L6 Data Science degree and apprenticeship. Each project was undertaken to learn specific skills as showcased in this repository. 
-
+___
 # Project 1: Using Ordinary Least Squares Regression to predict predict housing prices
-
+___
 This project is adapted from Source https://www.nickmccullum.com/python-machine-learning/linear-regression-python/
 This notebook uses a randomly generated dataset to build a linear regression model that predicts housing prices
 
@@ -19,7 +19,7 @@ How good is this model? The metric indicate that this is a less than perfect mod
 
 ___
 # Project 2: Classifying Data with Logistic Regression in Python
-
+___
 The purpose of this project is to predict if a borrower will default on their loan. The predictors are annual income and credit score, and the response is loan default.
 
 Loan Approval Classification Dataset source information Synthetic Data for binary classification on Loan Approval
@@ -44,9 +44,9 @@ Total Predictions:                 = 13,498
 
 ### Explore Project 2:
 [Link to Project 2 Notebook](https://github.com/andrewcollodel/Projects/blob/main/02%20Logistic_Regression_Loans.ipynb)
-
+___
 # Project 3:  NYC Bridge Crossings - Poisson regression model
-
+___
 This project was developed to learn Poisson regression and is adapted from the source cited below. The dataset is also available in Kaggle
 
 Poisson regression model for regressing the bicyclist counts observed on the Brooklyn bridge between 01 April 2017 and 31 October 2017.
@@ -75,10 +75,9 @@ This value is much smaller than this model’s reported Deviance = 24266 and Pea
 
 ### Explore Project 3: 
 [Link to Project 3 Notebook](https://github.com/andrewcollodel/Projects/blob/main/03%20Poission_Bike_NYC.ipynb)
-
-
+___
 # Project 4: Classifying Exam Results with Logistic Regression in Python
-
+___
 The purpose of this project is to predict if a student will pass their exams based on an average pass rate of 60% (60% and above = pass below 60% is a fail) as this is the minimum requirement at prestigious Universities . The predictors are gender, ethnicity, preparation, lunch and parent’s education. The response is Year Result (pass or fail).
 
 Students Performance in Exams Dataset source information
@@ -104,10 +103,9 @@ Total Predictions:             = 300
 
 ### Explore Project 4: 
 [Link to Project 4 Notebook](https://github.com/andrewcollodel/Projects/blob/main/04%20Predicting%20exam%20results%20logistic%20regression.ipynb)
-
-
+___
 # Project 5: Using Polynomial Regression to predict Co2 emissions based on city mpg
-
+___
 This project uses a historical dataset to build a linear regression model that predicts Co2 emissions based on city mpg.
 
 ## Project 5: Conclusion  

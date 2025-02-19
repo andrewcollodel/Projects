@@ -96,12 +96,15 @@ Total Predictions:             = 300
 This project uses a historical dataset to build a linear regression model that predicts Co2 emissions based on city mpg.
 
 ## Project 5: Conclusion
-Result Test1: Medium 14 mpg city - predicts 562.75 under reporting by 1.33%
-Result Test 2: High 40 mpg city - predicts 193.64 under reporting by 11.55%
-Result Test 3: Low 7 mpg city - predicts 1006.78 under reporting by 8.95%
-Statistical tests
-Mean squared error: 618.79
-R-squared: 0.96 (96%)
+Result Test1: Medium 14 mpg city - predicts 562.75 under reporting by 1.33%  
+
+Result Test 2: High 40 mpg city - predicts 193.64 under reporting by 11.55%  
+
+Result Test 3: Low 7 mpg city - predicts 1006.78 under reporting by 8.95%  
+
+**Statistical tests**
+Mean squared error: 618.79  
+R-squared: 0.96 (96%)  
 The model has improved but may lack sufficient predictor variables.
 
 

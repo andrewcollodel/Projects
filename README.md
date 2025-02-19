@@ -74,6 +74,7 @@ At p=0.05 and DF Residuals = 173, the chi-squared value (chi2) from a standard C
 This value is much smaller than this model’s reported Deviance = 24266 and Pearson chi2 = 24300. Therefore despite a reasonable visual fit or the test data the fit is statistically poor. (Source: https://timeseriesreasoning.com/contents/poisson-regression-model/ )
 
 ### Explore Project 3: 
+[Link to Project 3 Notebook](https://github.com/andrewcollodel/Projects/blob/main/03%20Poission_Bike_NYC.ipynb)
 
 
 # Project 4: Classifying Exam Results with Logistic Regression in Python

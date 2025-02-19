@@ -103,6 +103,7 @@ Incorrect predictions: 64 + 14 =  78 <span style="color:red">**(26% of predictio
 Total Predictions:             = 300
 
 ### Explore Project 4: 
+[Link to Project 4 Notebook](https://github.com/andrewcollodel/Projects/blob/main/04%20Predicting%20exam%20results%20logistic%20regression.ipynb)
 
 
 # Project 5: Using Polynomial Regression to predict Co2 emissions based on city mpg

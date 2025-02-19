@@ -14,7 +14,7 @@ The purpose of this project is to predict housing based on area income, house ag
 ## Project 1: Conclusion
 How good is this model? The metric indicate that this is a less than perfect model. The bedroom variable adds little value to the model. The best approach to evaluate this model would be to construct a second model with different predictor variables. Unfortunately this data set does not contain any other useful variables.
 
-### Explore Project 1: [Link to Project 1 Notebook](01 House_prices_OLS_Project.ipynb)
+### Explore Project 1: 
 
 
 
